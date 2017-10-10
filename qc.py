@@ -18,7 +18,7 @@ of the controlled_not gate.
 
 
 You'll need Python3 to run this program, e.g. use 
-python3.4 pc.py
+python3.4 qc.py
 to run the program in the terminal.
 '''
 
